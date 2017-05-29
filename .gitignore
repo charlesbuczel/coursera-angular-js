@@ -1,2 +1,5 @@
 .DS_Store
 bower_components
+dist
+.tmp
+node_modules
